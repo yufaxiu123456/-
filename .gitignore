@@ -1,0 +1,27 @@
+*.class
+ 
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.rar
+ 
+# ignore Maven generated target folders
+target
+ 
+# ignore eclipse files
+.project
+.classpath
+.settings
+.metadata
+.springBeans
+*.epoch
+*.lck
+*.log
+/bin/
+*.iml
+/.idea/
+/src/main/resources/rebel-remote.xml
+/src/main/resources/rebel.xml
+
